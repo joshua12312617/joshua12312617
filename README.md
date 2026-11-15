@@ -1,4 +1,4 @@
-# Hi, I'm @joshua12312617 👋
+# Hi,
 
 I build small, complete things: every project here is self-contained,
 documented, and tested — and several are built **from scratch** (a path
